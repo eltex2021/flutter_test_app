@@ -1,6 +1,16 @@
 # flutter_eclipse_test
 
-A new Flutter application.
+Application implementation based on https://jsonplaceholder.typicode.com
+
+
+![testtask1](https://user-images.githubusercontent.com/79207629/139241913-48109de0-9f85-4084-bcbd-4655f7bcfc75.png)
+![testtask2](https://user-images.githubusercontent.com/79207629/139241936-7ab045f1-74b0-4906-a1b9-f77915486fdf.png)
+![testtask3](https://user-images.githubusercontent.com/79207629/139241950-dc128399-c907-4af8-b6e7-1e650152984a.png)
+![testtask4](https://user-images.githubusercontent.com/79207629/139241958-b8a83c4d-4238-4807-9026-de8c0cf2f05b.png)
+![testtask5](https://user-images.githubusercontent.com/79207629/139241963-5c25d6f4-fbe4-4c09-844a-13338399b095.png)
+![testtask6](https://user-images.githubusercontent.com/79207629/139241976-491ae7a1-db4c-4d73-a28a-6a7583b08bc3.png)
+![testtask7](https://user-images.githubusercontent.com/79207629/139241988-5bafa6c9-2fd7-4fef-8713-4a1e2261dfac.png)
+
 
 ## Getting Started
 
